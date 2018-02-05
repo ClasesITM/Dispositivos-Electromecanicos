@@ -3,7 +3,7 @@
 
 Pagina de simulación electronica con arduino
 
-https://circuits.io/lab/
+https://www.tinkercad.com/circuits
 
 calculos de motores
 
